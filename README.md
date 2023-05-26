@@ -4,7 +4,7 @@
 
 ## Facts About Me
 
-My name is Flexyus and i am developing different things. One of my Projects is ```[Project Light](https://dsc.gg/Projectlight)``` a Minecraft Utilit Pack for Bedrock Edition. 
+My name is Flexyus and i am developing different things. One of my Projects is [Project Light](https://dsc.gg/Projectlight) a Minecraft Utilit Pack for Bedrock Edition. 
 
 
 ## My Current Projects
