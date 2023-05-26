@@ -23,11 +23,12 @@ My name is Flexyus and i am developing different things. One of my Projects is `
 ## Contact Me 
 
 ### Discord:
-- [My Doscord Server](https://dsc.gg/Flexyus)
+- [My Discord Server](https://dsc.gg/Flexyus)
 - Flexyus#3000
 
-### Twitter
-- @Flexyus3000
+### Other Socials
+- [Twitter](https://twitter.com/Flexyus3000)
+- [Youtube](https://www.youtube.com/channel/UCfnZarTVXLwbhFKscZd_ahg)
 
 > The best way to contact me is via Discord.
 
