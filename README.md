@@ -26,7 +26,7 @@ My name is Flexyus and I am developing different things. One of my Projects is [
 
 ### Discord:
 - [My Discord Server](https://dsc.gg/Flexyus)
-- Flexyus#3000
+- .flexyus
 
 ### Other Socials
 - [Twitter](https://twitter.com/Flexyus3000)
