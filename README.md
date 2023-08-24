@@ -1,6 +1,6 @@
 # 👋About Me
 
-![](https://github-readme-stats.vercel.app/api?username=Flexyus&show_icons=true&theme=react)
+![](https://github-readme-stats.vercel.app/api?username=lliTImInternet&show_icons=true&theme=react)
 
 
 
