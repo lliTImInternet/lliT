@@ -6,7 +6,8 @@
 
 ## Facts About Me
 
-My name is lliT and I am developing different things. One of my Projects is [Project Light](https://dsc.gg/Projectlight) a Minecraft Utility Pack for Bedrock Edition. 
+My name is lliT and I am a hobby develepor. 
+One of my Projects is [Project Light](https://dsc.gg/Projectlight) a Minecraft Utility Pack for Bedrock Edition. 
 
 
 ## My Current Projects
