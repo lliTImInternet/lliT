@@ -19,7 +19,6 @@ My name is lliT and I am developing different things. One of my Projects is [Pro
 
 - Json ui
 - C++
-- Java (a bit)
 
 
 ## Contact Me 
