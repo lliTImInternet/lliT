@@ -12,7 +12,7 @@ My name is Flexyus and I am developing different things. One of my Projects is [
 ## My Current Projects
 
 - Project Light 
-- PVP HUD 
+- 
 
 
 ## Languages
@@ -25,8 +25,7 @@ My name is Flexyus and I am developing different things. One of my Projects is [
 ## Contact Me 
 
 ### Discord:
-- [My Discord Server](https://dsc.gg/Flexyus)
-- .flexyus
+- llit_im_internet
 
 ### Other Socials
 - [Twitter](https://twitter.com/Flexyus3000)
