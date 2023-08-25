@@ -28,7 +28,7 @@ One of my Projects is [Project Light](https://dsc.gg/Projectlight) a Minecraft U
 - llit_im_internet
 
 ### Other Socials
-- [Twitter](https://twitter.com/Flexyus3000)
+- [Twitter](https://twitter.com/lliTImInternet)
 - [Youtube](https://www.youtube.com/channel/UCfnZarTVXLwbhFKscZd_ahg)
 
 > The best way to contact me is via Discord.
