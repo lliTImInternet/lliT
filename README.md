@@ -12,9 +12,9 @@ One of my Projects is [Project Light](https://dsc.gg/Projectlight) a Minecraft U
 
 ## My Current Projects
 
-- Project Light 
-- Nova Client
-- Project 64
+- [Project Light](https://dsc.gg/Projectlight)
+- [Nova Client](https://github.com/lliTImInternet/Nova-Client)
+- [Project 64](https://github.com/lliTImInternet/Proj64)
 
 
 ## Languages
