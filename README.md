@@ -13,7 +13,8 @@ One of my Projects is [Project Light](https://dsc.gg/Projectlight) a Minecraft U
 ## My Current Projects
 
 - Project Light 
-- 
+- Nova Client
+- Project 64
 
 
 ## Languages
