@@ -1,26 +1,17 @@
-# 👋About Me
+# Random Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=lliTImInternet&show_icons=true&theme=react)
 
 
+## Projects
 
-## Facts About Me
-
-My name is lliT and I am a hobby develepor. 
-One of my Projects is [Project Light](https://dsc.gg/Projectlight) a Minecraft Utility Pack for Bedrock Edition. 
-
-
-## My Current Projects
-
-- [Project Light](https://dsc.gg/Projectlight)
 - [Nova Client](https://github.com/lliTImInternet/Nova-Client)
 - [Project 64](https://github.com/lliTImInternet/Proj64)
 
 
 ## Languages
 
-- Json ui
-- C++
+- Minecraft Bedrock Json ui
 
 
 ## Contact Me 
@@ -32,7 +23,6 @@ One of my Projects is [Project Light](https://dsc.gg/Projectlight) a Minecraft U
 - [Twitter](https://twitter.com/lliTImInternet)
 - [Youtube](https://www.youtube.com/channel/UCfnZarTVXLwbhFKscZd_ahg)
 
-> The best way to contact me is via Discord.
 
 
 
