@@ -20,7 +20,6 @@
 - llit_im_internet
 
 ### Other Socials
-- [Twitter](https://twitter.com/lliTImInternet)
 - [Youtube](https://www.youtube.com/channel/UCfnZarTVXLwbhFKscZd_ahg)
 
 
